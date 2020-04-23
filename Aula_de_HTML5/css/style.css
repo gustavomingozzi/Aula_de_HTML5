@@ -1,0 +1,30 @@
+
+body {
+    background: rgb(243, 243, 243);
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: lightseagreen;
+    font-family: fantasy;
+}
+h2 {color: rgb(224, 188, 24);
+}
+h3 {color: rgb(224, 188, 24);
+}
+p {
+    font-size: 20px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+.img_padrão {
+    margin-bottom: 1px;
+    width: 0px;
+}
